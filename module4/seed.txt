@@ -1,0 +1,1 @@
+Tile: 8192      Score: 167516   Seed: 0x3b47d376955234  Runs: 447

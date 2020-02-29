@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+py3env/
+.vs/
+module5.pyproj
+*.o
+module5.pyproj.user
+*.sln

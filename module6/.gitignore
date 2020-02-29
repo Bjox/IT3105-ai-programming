@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+py3env/
+.vs/
+*.cfg
+*.pyproj
+*.o
+*.pyproj.user
+*.sln
